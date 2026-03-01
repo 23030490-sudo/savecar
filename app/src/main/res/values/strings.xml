@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SaveCar</string>
+
+    <!-- Navigation -->
+    <string name="back">Atrás</string>
+
+    <!-- Home Screen -->
+    <string name="my_vehicles">Mis Vehículos</string>
+    <string name="recent_maintenance">Mantenimientos Recientes</string>
+    <string name="no_vehicles_message">No tienes vehículos registrados</string>
+    <string name="tap_to_add_vehicle">Toca aquí para agregar tu primer vehículo</string>
+    <string name="no_records_message">Sin registros de mantenimiento</string>
+
+    <!-- Vehicle fields -->
+    <string name="add_vehicle">Agregar Vehículo</string>
+    <string name="edit_vehicle">Editar Vehículo</string>
+    <string name="delete_vehicle">Eliminar Vehículo</string>
+    <string name="delete_vehicle_confirm">¿Eliminar %1$s %2$s? Se borrarán todos sus registros de mantenimiento.</string>
+    <string name="brand">Marca</string>
+    <string name="model">Modelo</string>
+    <string name="year">Año</string>
+    <string name="license_plate">Placa</string>
+    <string name="color">Color</string>
+    <string name="mileage_km">Kilometraje</string>
+    <string name="fuel_type">Tipo de Combustible</string>
+    <string name="notes">Notas</string>
+
+    <!-- Maintenance fields -->
+    <string name="add_maintenance">Agregar Mantenimiento</string>
+    <string name="edit_maintenance">Editar Mantenimiento</string>
+    <string name="edit_record">Editar registro</string>
+    <string name="delete_record">Eliminar Registro</string>
+    <string name="delete_record_confirm">¿Eliminar el registro de "%1$s"?</string>
+    <string name="maintenance_type">Tipo de Mantenimiento</string>
+    <string name="custom_type">Descripción del mantenimiento</string>
+    <string name="service_date">Fecha del Servicio</string>
+    <string name="cost">Costo</string>
+    <string name="workshop">Taller</string>
+    <string name="next_service">Próximo Servicio</string>
+    <string name="next_mileage">Próximo km</string>
+    <string name="next_date">Próxima fecha</string>
+    <string name="maintenance_history">Historial de Mantenimiento</string>
+
+    <!-- Common actions -->
+    <string name="save">Guardar</string>
+    <string name="cancel">Cancelar</string>
+    <string name="delete">Eliminar</string>
+    <string name="edit">Editar</string>
+    <string name="select">Seleccionar</string>
+    <string name="ok">Aceptar</string>
+</resources>
