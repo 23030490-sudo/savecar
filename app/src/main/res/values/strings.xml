@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SaveCar</string>
+    <string name="add_vehicle">Agregar Vehículo</string>
+    <string name="add_service">Agregar Servicio</string>
+    <string name="vehicles">Vehículos</string>
+    <string name="services">Servicios</string>
+    <string name="fuel_consumption">Consumo de Gasolina</string>
+    <string name="maintenance">Mantenimiento</string>
+    <string name="settings">Configuración</string>
+</resources>
